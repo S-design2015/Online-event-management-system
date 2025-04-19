@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --dark-color: #2F0000;
+    --pink: #FF7979;
+}
+footer{
+    background: var(--dark-color);
+}
+.mt-2{
+    color: var(--pink);
+    font-size: 25px;
+}
+.me-3{
+    text-decoration: none;
+}
